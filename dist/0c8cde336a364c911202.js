@@ -1,0 +1,1 @@
+"use strict";const handleScroll=e=>{document.getElementById(e).scrollIntoView({behavior:"smooth"})};
