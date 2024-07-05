@@ -11,6 +11,10 @@ html {
   word-break:keep-all;
 }
 
+.sb {
+  font-family: "SF_Pro_Display_Semibold";
+}
+
 .body {
   width: 80%;
   max-width: 1080px;
