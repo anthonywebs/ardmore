@@ -11,8 +11,19 @@ html {
   word-break:keep-all;
 }
 
-.sb {
-  font-family: "SF_Pro_Display_Semibold";
+.h1 {
+  font-family: "SF_Pro_Display_Semibold", sans-serif;
+  font-size: 2rem;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+}
+
+.h2 {
+  font-family: "SF_Pro_Display_Semibold", sans-serif;
+  font-size: 1.5rem;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+  margin: 24px 0 16px;
 }
 
 .body {
@@ -20,6 +31,7 @@ html {
   max-width: 1080px;
   /* min-height: 100%; */
   margin: 0 auto;
+  letter-spacing: ;
 }
 
 .text-center {
